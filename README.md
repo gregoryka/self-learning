@@ -6,3 +6,10 @@ This is a avery non-exhaustive list of different compilers. A modern compiler in
 
  - GCC - The De-facto compiler for linux based systems.
  - Clang - A C family compiler based on LLVM. Made to be very modular, and thus be easy to add new languages to.
+ - [Whole bunch of other compilers](https://en.wikipedia.org/wiki/List_of_compilers) - Absolutely no reason to list them all myself.
+
+## Languages
+A lot of languages exist, but for preformance-centric tasks I want to focus on:
+
+- C++ - A high level language that has a large community
+- Rust - A relatively new systems programming language focusing on safety.
